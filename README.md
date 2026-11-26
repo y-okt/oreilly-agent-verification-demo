@@ -35,7 +35,7 @@ Feature Map とツールが今のコードと合っているかは、`pnpm check
 
 ## 依存パッケージの決まり
 
-`pnpm-workspace.yaml` の `minimumReleaseAge: 10080` で、公開から7日たっていない版は入りません。講義の前に `pnpm audit` を実行してください（2026-11-26 時点で既知の脆弱性なし）。
+`pnpm-workspace.yaml` の `minimumReleaseAge: 10080` で、公開から7日たっていない版は入りません。講義の前に `pnpm audit` を実行してください。
 
 ## 入っているもの
 
