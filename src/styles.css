@@ -1,0 +1,33 @@
+:root { color-scheme: light; font-family: system-ui, "Hiragino Sans", "Noto Sans JP", sans-serif; color: #1c2733; }
+body { margin: 0; background: #f4f6f9; }
+main { max-width: 1080px; margin: 0 auto; padding: 24px; }
+header { display: flex; justify-content: space-between; align-items: center; }
+h1 { font-size: 22px; margin: 0; }
+button { display: inline-flex; gap: 6px; align-items: center; padding: 6px 12px; border: 1px solid #b7c3d0; border-radius: 6px; background: #fff; cursor: pointer; font: inherit; }
+.filters { display: flex; gap: 20px; align-items: center; margin: 18px 0; }
+.filters label { display: inline-flex; gap: 8px; align-items: center; }
+select, input { font: inherit; padding: 4px 8px; }
+.cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+.card { background: #fff; border: 1px solid #dde4ec; border-radius: 8px; padding: 14px 16px; }
+.card-label { display: flex; gap: 6px; align-items: center; color: #55687c; font-size: 13px; }
+.card-value { font-size: 22px; font-weight: 600; margin-top: 6px; }
+.chart { height: 240px; background: #fff; border: 1px solid #dde4ec; border-radius: 8px; margin: 16px 0; }
+table { width: 100%; border-collapse: collapse; background: #fff; font-size: 14px; }
+th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid #e6ebf1; white-space: nowrap; }
+th { background: #eef2f7; }
+.num { text-align: right; }
+.dialog-backdrop { position: fixed; inset: 0; background: rgb(20 30 45 / 45%); display: grid; place-items: center; }
+.dialog { background: #fff; border-radius: 10px; padding: 20px 24px; width: min(640px, 90vw); max-height: 80vh; overflow: auto; }
+.help-body pre { background: #f4f6f9; padding: 12px; border-radius: 6px; overflow: auto; }
+.hljs-keyword { color: #a626a4; } .hljs-string { color: #50a14f; } .hljs-title, .hljs-attr, .hljs-property { color: #4078f2; } .hljs-number { color: #986801; }
+nav { display: flex; gap: 16px; align-items: center; }
+a { color: #1c5599; }
+h2 { font-size: 18px; margin: 18px 0 12px; }
+.crumb { margin: 16px 0 0; font-size: 14px; }
+.cards.two { grid-template-columns: repeat(2, 1fr); margin-bottom: 16px; }
+fieldset { background: #fff; border: 1px solid #dde4ec; border-radius: 8px; padding: 14px 16px; display: flex; gap: 24px; }
+fieldset label { display: inline-flex; gap: 6px; align-items: center; }
+.hint { color: #55687c; font-size: 13px; }
+.customer-head { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; }
+.pager { display: flex; gap: 20px; font-size: 14px; }
+.loading { color: #55687c; margin: 24px 0; }

@@ -1,0 +1,9 @@
+node_modules
+dist/
+evidence/
+.verify-dashboard/
+.claude/
+.DS_Store
+compare/.venv/
+mlartifacts/
+mlruns/

@@ -1,0 +1,1202 @@
+[
+{
+"id": "ORD-0001",
+"date": "2026-07-04",
+"customer": "久保田 弘",
+"product": "ノイズキャンセリングヘッドホン",
+"quantity": 5,
+"unitPrice": 36300,
+"status": "支払済",
+"region": "中国・四国"
+},
+{
+"id": "ORD-0002",
+"date": "2026-10-03",
+"customer": "辻 啓子",
+"product": "ノイズキャンセリングヘッドホン",
+"quantity": 9,
+"unitPrice": 36300,
+"status": "支払済",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0003",
+"date": "2026-08-09",
+"customer": "西尾 ひなた",
+"product": "ノイズキャンセリングヘッドホン",
+"quantity": 12,
+"unitPrice": 36300,
+"status": "支払済",
+"region": "関東"
+},
+{
+"id": "ORD-0004",
+"date": "2026-10-27",
+"customer": "山口 葵",
+"product": "オフィスチェア",
+"quantity": 7,
+"unitPrice": 39800,
+"status": "保留",
+"region": "関東"
+},
+{
+"id": "ORD-0005",
+"date": "2026-08-08",
+"customer": "森岡 啓子",
+"product": "ドッキングステーション",
+"quantity": 3,
+"unitPrice": 24800,
+"status": "支払済",
+"region": "北海道・東北"
+},
+{
+"id": "ORD-0006",
+"date": "2026-08-01",
+"customer": "小出 瞳",
+"product": "ドッキングステーション",
+"quantity": 11,
+"unitPrice": 24800,
+"status": "キャンセル",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0007",
+"date": "2026-06-06",
+"customer": "榊原 良子",
+"product": "ドッキングステーション",
+"quantity": 11,
+"unitPrice": 24800,
+"status": "保留",
+"region": "中部"
+},
+{
+"id": "ORD-0008",
+"date": "2026-07-03",
+"customer": "須藤 めぐみ",
+"product": "オフィスチェア",
+"quantity": 1,
+"unitPrice": 39800,
+"status": "支払済",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0009",
+"date": "2026-05-25",
+"customer": "笠井 花",
+"product": "ワイヤレスキーボード",
+"quantity": 7,
+"unitPrice": 12800,
+"status": "支払済",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0010",
+"date": "2026-10-06",
+"customer": "和田 京子",
+"product": "昇降デスク",
+"quantity": 1,
+"unitPrice": 64000,
+"status": "キャンセル",
+"region": "中国・四国"
+},
+{
+"id": "ORD-0011",
+"date": "2026-05-18",
+"customer": "牧野 美香",
+"product": "昇降デスク",
+"quantity": 12,
+"unitPrice": 64000,
+"status": "支払済",
+"region": "中部"
+},
+{
+"id": "ORD-0012",
+"date": "2026-09-03",
+"customer": "松山 麻美",
+"product": "ノイズキャンセリングヘッドホン",
+"quantity": 11,
+"unitPrice": 36300,
+"status": "支払済",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0013",
+"date": "2026-10-02",
+"customer": "石井 花音",
+"product": "ノートPC 14型",
+"quantity": 6,
+"unitPrice": 148000,
+"status": "支払済",
+"region": "北海道・東北"
+},
+{
+"id": "ORD-0014",
+"date": "2026-07-04",
+"customer": "根岸 稔",
+"product": "ワイヤレスキーボード",
+"quantity": 12,
+"unitPrice": 12800,
+"status": "保留",
+"region": "中部"
+},
+{
+"id": "ORD-0015",
+"date": "2026-05-24",
+"customer": "関根 輝",
+"product": "オフィスチェア",
+"quantity": 3,
+"unitPrice": 39800,
+"status": "支払済",
+"region": "北海道・東北"
+},
+{
+"id": "ORD-0016",
+"date": "2026-07-01",
+"customer": "川田 勲",
+"product": "ノートPC 14型",
+"quantity": 9,
+"unitPrice": 148000,
+"status": "支払済",
+"region": "関東"
+},
+{
+"id": "ORD-0017",
+"date": "2026-10-19",
+"customer": "松島 誠",
+"product": "4Kモニター 27型",
+"quantity": 6,
+"unitPrice": 52800,
+"status": "支払済",
+"region": "関東"
+},
+{
+"id": "ORD-0018",
+"date": "2026-06-27",
+"customer": "大久保 千代",
+"product": "Webカメラ",
+"quantity": 8,
+"unitPrice": 8980,
+"status": "支払済",
+"region": "関東"
+},
+{
+"id": "ORD-0019",
+"date": "2026-09-09",
+"customer": "久保 達也",
+"product": "ワイヤレスキーボード",
+"quantity": 5,
+"unitPrice": 12800,
+"status": "支払済",
+"region": "中国・四国"
+},
+{
+"id": "ORD-0020",
+"date": "2026-09-15",
+"customer": "石黒 真央",
+"product": "Webカメラ",
+"quantity": 2,
+"unitPrice": 8980,
+"status": "支払済",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0021",
+"date": "2026-08-18",
+"customer": "松原 愛",
+"product": "昇降デスク",
+"quantity": 6,
+"unitPrice": 64000,
+"status": "支払済",
+"region": "北海道・東北"
+},
+{
+"id": "ORD-0022",
+"date": "2026-08-13",
+"customer": "樋口 紀子",
+"product": "4Kモニター 27型",
+"quantity": 12,
+"unitPrice": 52800,
+"status": "支払済",
+"region": "中部"
+},
+{
+"id": "ORD-0023",
+"date": "2026-09-20",
+"customer": "野崎 太一",
+"product": "ドッキングステーション",
+"quantity": 6,
+"unitPrice": 24800,
+"status": "支払済",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0024",
+"date": "2026-06-21",
+"customer": "宮本 千尋",
+"product": "オフィスチェア",
+"quantity": 12,
+"unitPrice": 39800,
+"status": "支払済",
+"region": "関西"
+},
+{
+"id": "ORD-0025",
+"date": "2026-08-20",
+"customer": "水谷 きみ",
+"product": "ドッキングステーション",
+"quantity": 5,
+"unitPrice": 24800,
+"status": "保留",
+"region": "北海道・東北"
+},
+{
+"id": "ORD-0026",
+"date": "2026-10-09",
+"customer": "浅野 大輔",
+"product": "昇降デスク",
+"quantity": 10,
+"unitPrice": 64000,
+"status": "支払済",
+"region": "中部"
+},
+{
+"id": "ORD-0027",
+"date": "2026-05-02",
+"customer": "田辺 翔平",
+"product": "ノイズキャンセリングヘッドホン",
+"quantity": 3,
+"unitPrice": 36300,
+"status": "支払済",
+"region": "関東"
+},
+{
+"id": "ORD-0028",
+"date": "2026-09-09",
+"customer": "庄司 きよ",
+"product": "ノートPC 14型",
+"quantity": 2,
+"unitPrice": 148000,
+"status": "支払済",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0029",
+"date": "2026-07-24",
+"customer": "川上 彩香",
+"product": "4Kモニター 27型",
+"quantity": 10,
+"unitPrice": 52800,
+"status": "支払済",
+"region": "中国・四国"
+},
+{
+"id": "ORD-0030",
+"date": "2026-10-13",
+"customer": "広瀬 沙織",
+"product": "4Kモニター 27型",
+"quantity": 5,
+"unitPrice": 52800,
+"status": "キャンセル",
+"region": "中部"
+},
+{
+"id": "ORD-0031",
+"date": "2026-06-12",
+"customer": "久保田 弘",
+"product": "オフィスチェア",
+"quantity": 7,
+"unitPrice": 39800,
+"status": "支払済",
+"region": "関西"
+},
+{
+"id": "ORD-0032",
+"date": "2026-08-02",
+"customer": "辻 啓子",
+"product": "昇降デスク",
+"quantity": 5,
+"unitPrice": 64000,
+"status": "支払済",
+"region": "中部"
+},
+{
+"id": "ORD-0033",
+"date": "2026-07-31",
+"customer": "西尾 ひなた",
+"product": "ワイヤレスキーボード",
+"quantity": 11,
+"unitPrice": 12800,
+"status": "支払済",
+"region": "中部"
+},
+{
+"id": "ORD-0034",
+"date": "2026-07-28",
+"customer": "山口 葵",
+"product": "ノイズキャンセリングヘッドホン",
+"quantity": 5,
+"unitPrice": 36300,
+"status": "保留",
+"region": "中国・四国"
+},
+{
+"id": "ORD-0035",
+"date": "2026-09-11",
+"customer": "森岡 啓子",
+"product": "ドッキングステーション",
+"quantity": 3,
+"unitPrice": 24800,
+"status": "支払済",
+"region": "関東"
+},
+{
+"id": "ORD-0036",
+"date": "2026-08-25",
+"customer": "小出 瞳",
+"product": "ドッキングステーション",
+"quantity": 4,
+"unitPrice": 24800,
+"status": "支払済",
+"region": "中国・四国"
+},
+{
+"id": "ORD-0037",
+"date": "2026-10-19",
+"customer": "榊原 良子",
+"product": "昇降デスク",
+"quantity": 9,
+"unitPrice": 64000,
+"status": "保留",
+"region": "北海道・東北"
+},
+{
+"id": "ORD-0038",
+"date": "2026-09-20",
+"customer": "須藤 めぐみ",
+"product": "ノートPC 14型",
+"quantity": 10,
+"unitPrice": 148000,
+"status": "支払済",
+"region": "関西"
+},
+{
+"id": "ORD-0039",
+"date": "2026-08-14",
+"customer": "笠井 花",
+"product": "ワイヤレスキーボード",
+"quantity": 2,
+"unitPrice": 12800,
+"status": "キャンセル",
+"region": "中部"
+},
+{
+"id": "ORD-0040",
+"date": "2026-09-26",
+"customer": "和田 京子",
+"product": "Webカメラ",
+"quantity": 6,
+"unitPrice": 8980,
+"status": "支払済",
+"region": "関西"
+},
+{
+"id": "ORD-0041",
+"date": "2026-08-25",
+"customer": "牧野 美香",
+"product": "昇降デスク",
+"quantity": 2,
+"unitPrice": 64000,
+"status": "支払済",
+"region": "中国・四国"
+},
+{
+"id": "ORD-0042",
+"date": "2026-07-28",
+"customer": "松山 麻美",
+"product": "昇降デスク",
+"quantity": 10,
+"unitPrice": 64000,
+"status": "支払済",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0043",
+"date": "2026-07-09",
+"customer": "石井 花音",
+"product": "ワイヤレスキーボード",
+"quantity": 3,
+"unitPrice": 12800,
+"status": "支払済",
+"region": "関西"
+},
+{
+"id": "ORD-0044",
+"date": "2026-05-27",
+"customer": "根岸 稔",
+"product": "ワイヤレスキーボード",
+"quantity": 9,
+"unitPrice": 12800,
+"status": "支払済",
+"region": "関東"
+},
+{
+"id": "ORD-0045",
+"date": "2026-08-04",
+"customer": "関根 輝",
+"product": "オフィスチェア",
+"quantity": 8,
+"unitPrice": 39800,
+"status": "支払済",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0046",
+"date": "2026-07-18",
+"customer": "川田 勲",
+"product": "ノイズキャンセリングヘッドホン",
+"quantity": 4,
+"unitPrice": 36300,
+"status": "保留",
+"region": "関東"
+},
+{
+"id": "ORD-0047",
+"date": "2026-07-02",
+"customer": "松島 誠",
+"product": "ワイヤレスキーボード",
+"quantity": 4,
+"unitPrice": 12800,
+"status": "支払済",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0048",
+"date": "2026-07-18",
+"customer": "大久保 千代",
+"product": "4Kモニター 27型",
+"quantity": 1,
+"unitPrice": 52800,
+"status": "支払済",
+"region": "北海道・東北"
+},
+{
+"id": "ORD-0049",
+"date": "2026-10-29",
+"customer": "久保 達也",
+"product": "Webカメラ",
+"quantity": 1,
+"unitPrice": 8980,
+"status": "支払済",
+"region": "中国・四国"
+},
+{
+"id": "ORD-0050",
+"date": "2026-07-17",
+"customer": "石黒 真央",
+"product": "オフィスチェア",
+"quantity": 11,
+"unitPrice": 39800,
+"status": "支払済",
+"region": "関東"
+},
+{
+"id": "ORD-0051",
+"date": "2026-05-08",
+"customer": "松原 愛",
+"product": "Webカメラ",
+"quantity": 1,
+"unitPrice": 8980,
+"status": "支払済",
+"region": "北海道・東北"
+},
+{
+"id": "ORD-0052",
+"date": "2026-06-30",
+"customer": "樋口 紀子",
+"product": "ノートPC 14型",
+"quantity": 7,
+"unitPrice": 148000,
+"status": "支払済",
+"region": "関東"
+},
+{
+"id": "ORD-0053",
+"date": "2026-09-17",
+"customer": "野崎 太一",
+"product": "ノイズキャンセリングヘッドホン",
+"quantity": 5,
+"unitPrice": 36300,
+"status": "支払済",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0054",
+"date": "2026-05-30",
+"customer": "宮本 千尋",
+"product": "4Kモニター 27型",
+"quantity": 4,
+"unitPrice": 52800,
+"status": "支払済",
+"region": "中国・四国"
+},
+{
+"id": "ORD-0055",
+"date": "2026-10-19",
+"customer": "水谷 きみ",
+"product": "オフィスチェア",
+"quantity": 7,
+"unitPrice": 39800,
+"status": "支払済",
+"region": "北海道・東北"
+},
+{
+"id": "ORD-0056",
+"date": "2026-07-02",
+"customer": "浅野 大輔",
+"product": "ノイズキャンセリングヘッドホン",
+"quantity": 6,
+"unitPrice": 36300,
+"status": "支払済",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0057",
+"date": "2026-05-28",
+"customer": "田辺 翔平",
+"product": "オフィスチェア",
+"quantity": 7,
+"unitPrice": 39800,
+"status": "支払済",
+"region": "中国・四国"
+},
+{
+"id": "ORD-0058",
+"date": "2026-05-06",
+"customer": "庄司 きよ",
+"product": "Webカメラ",
+"quantity": 4,
+"unitPrice": 8980,
+"status": "支払済",
+"region": "中部"
+},
+{
+"id": "ORD-0059",
+"date": "2026-07-24",
+"customer": "川上 彩香",
+"product": "ノイズキャンセリングヘッドホン",
+"quantity": 2,
+"unitPrice": 36300,
+"status": "支払済",
+"region": "中部"
+},
+{
+"id": "ORD-0060",
+"date": "2026-06-09",
+"customer": "広瀬 沙織",
+"product": "オフィスチェア",
+"quantity": 12,
+"unitPrice": 39800,
+"status": "支払済",
+"region": "中部"
+},
+{
+"id": "ORD-0061",
+"date": "2026-10-27",
+"customer": "久保田 弘",
+"product": "ドッキングステーション",
+"quantity": 9,
+"unitPrice": 24800,
+"status": "支払済",
+"region": "北海道・東北"
+},
+{
+"id": "ORD-0062",
+"date": "2026-09-18",
+"customer": "辻 啓子",
+"product": "Webカメラ",
+"quantity": 11,
+"unitPrice": 8980,
+"status": "支払済",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0063",
+"date": "2026-08-12",
+"customer": "西尾 ひなた",
+"product": "オフィスチェア",
+"quantity": 4,
+"unitPrice": 39800,
+"status": "支払済",
+"region": "中国・四国"
+},
+{
+"id": "ORD-0064",
+"date": "2026-07-28",
+"customer": "山口 葵",
+"product": "オフィスチェア",
+"quantity": 12,
+"unitPrice": 39800,
+"status": "支払済",
+"region": "北海道・東北"
+},
+{
+"id": "ORD-0065",
+"date": "2026-06-16",
+"customer": "森岡 啓子",
+"product": "昇降デスク",
+"quantity": 2,
+"unitPrice": 64000,
+"status": "支払済",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0066",
+"date": "2026-09-16",
+"customer": "小出 瞳",
+"product": "ノートPC 14型",
+"quantity": 2,
+"unitPrice": 148000,
+"status": "支払済",
+"region": "北海道・東北"
+},
+{
+"id": "ORD-0067",
+"date": "2026-09-03",
+"customer": "榊原 良子",
+"product": "Webカメラ",
+"quantity": 6,
+"unitPrice": 8980,
+"status": "支払済",
+"region": "北海道・東北"
+},
+{
+"id": "ORD-0068",
+"date": "2026-06-20",
+"customer": "須藤 めぐみ",
+"product": "ノイズキャンセリングヘッドホン",
+"quantity": 3,
+"unitPrice": 36300,
+"status": "キャンセル",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0069",
+"date": "2026-09-11",
+"customer": "笠井 花",
+"product": "ノイズキャンセリングヘッドホン",
+"quantity": 4,
+"unitPrice": 36300,
+"status": "キャンセル",
+"region": "関西"
+},
+{
+"id": "ORD-0070",
+"date": "2026-06-13",
+"customer": "和田 京子",
+"product": "4Kモニター 27型",
+"quantity": 3,
+"unitPrice": 52800,
+"status": "キャンセル",
+"region": "中国・四国"
+},
+{
+"id": "ORD-0071",
+"date": "2026-05-19",
+"customer": "牧野 美香",
+"product": "4Kモニター 27型",
+"quantity": 2,
+"unitPrice": 52800,
+"status": "支払済",
+"region": "関東"
+},
+{
+"id": "ORD-0072",
+"date": "2026-07-03",
+"customer": "松山 麻美",
+"product": "昇降デスク",
+"quantity": 3,
+"unitPrice": 64000,
+"status": "支払済",
+"region": "中国・四国"
+},
+{
+"id": "ORD-0073",
+"date": "2026-07-11",
+"customer": "石井 花音",
+"product": "昇降デスク",
+"quantity": 4,
+"unitPrice": 64000,
+"status": "支払済",
+"region": "中部"
+},
+{
+"id": "ORD-0074",
+"date": "2026-05-11",
+"customer": "根岸 稔",
+"product": "ノートPC 14型",
+"quantity": 10,
+"unitPrice": 148000,
+"status": "保留",
+"region": "関東"
+},
+{
+"id": "ORD-0075",
+"date": "2026-07-21",
+"customer": "関根 輝",
+"product": "昇降デスク",
+"quantity": 7,
+"unitPrice": 64000,
+"status": "支払済",
+"region": "関東"
+},
+{
+"id": "ORD-0076",
+"date": "2026-08-08",
+"customer": "川田 勲",
+"product": "ドッキングステーション",
+"quantity": 4,
+"unitPrice": 24800,
+"status": "支払済",
+"region": "関西"
+},
+{
+"id": "ORD-0077",
+"date": "2026-08-26",
+"customer": "松島 誠",
+"product": "オフィスチェア",
+"quantity": 5,
+"unitPrice": 39800,
+"status": "キャンセル",
+"region": "中部"
+},
+{
+"id": "ORD-0078",
+"date": "2026-08-30",
+"customer": "大久保 千代",
+"product": "ノートPC 14型",
+"quantity": 3,
+"unitPrice": 148000,
+"status": "支払済",
+"region": "関西"
+},
+{
+"id": "ORD-0079",
+"date": "2026-07-04",
+"customer": "久保 達也",
+"product": "ドッキングステーション",
+"quantity": 10,
+"unitPrice": 24800,
+"status": "保留",
+"region": "中国・四国"
+},
+{
+"id": "ORD-0080",
+"date": "2026-10-03",
+"customer": "石黒 真央",
+"product": "Webカメラ",
+"quantity": 10,
+"unitPrice": 8980,
+"status": "支払済",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0081",
+"date": "2026-05-09",
+"customer": "松原 愛",
+"product": "4Kモニター 27型",
+"quantity": 9,
+"unitPrice": 52800,
+"status": "支払済",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0082",
+"date": "2026-09-03",
+"customer": "樋口 紀子",
+"product": "昇降デスク",
+"quantity": 7,
+"unitPrice": 64000,
+"status": "支払済",
+"region": "中部"
+},
+{
+"id": "ORD-0083",
+"date": "2026-07-02",
+"customer": "野崎 太一",
+"product": "ノイズキャンセリングヘッドホン",
+"quantity": 9,
+"unitPrice": 36300,
+"status": "支払済",
+"region": "中国・四国"
+},
+{
+"id": "ORD-0084",
+"date": "2026-06-09",
+"customer": "宮本 千尋",
+"product": "ノートPC 14型",
+"quantity": 5,
+"unitPrice": 148000,
+"status": "キャンセル",
+"region": "中国・四国"
+},
+{
+"id": "ORD-0085",
+"date": "2026-06-07",
+"customer": "水谷 きみ",
+"product": "ワイヤレスキーボード",
+"quantity": 1,
+"unitPrice": 12800,
+"status": "保留",
+"region": "中国・四国"
+},
+{
+"id": "ORD-0086",
+"date": "2026-10-19",
+"customer": "浅野 大輔",
+"product": "昇降デスク",
+"quantity": 6,
+"unitPrice": 64000,
+"status": "支払済",
+"region": "中部"
+},
+{
+"id": "ORD-0087",
+"date": "2026-09-27",
+"customer": "田辺 翔平",
+"product": "ノイズキャンセリングヘッドホン",
+"quantity": 1,
+"unitPrice": 36300,
+"status": "支払済",
+"region": "関西"
+},
+{
+"id": "ORD-0088",
+"date": "2026-06-21",
+"customer": "庄司 きよ",
+"product": "ドッキングステーション",
+"quantity": 6,
+"unitPrice": 24800,
+"status": "支払済",
+"region": "関西"
+},
+{
+"id": "ORD-0089",
+"date": "2026-08-16",
+"customer": "川上 彩香",
+"product": "ワイヤレスキーボード",
+"quantity": 6,
+"unitPrice": 12800,
+"status": "支払済",
+"region": "関西"
+},
+{
+"id": "ORD-0090",
+"date": "2026-05-05",
+"customer": "広瀬 沙織",
+"product": "ドッキングステーション",
+"quantity": 7,
+"unitPrice": 24800,
+"status": "支払済",
+"region": "北海道・東北"
+},
+{
+"id": "ORD-0091",
+"date": "2026-09-02",
+"customer": "久保田 弘",
+"product": "Webカメラ",
+"quantity": 11,
+"unitPrice": 8980,
+"status": "保留",
+"region": "中部"
+},
+{
+"id": "ORD-0092",
+"date": "2026-08-29",
+"customer": "辻 啓子",
+"product": "昇降デスク",
+"quantity": 9,
+"unitPrice": 64000,
+"status": "支払済",
+"region": "中部"
+},
+{
+"id": "ORD-0093",
+"date": "2026-08-27",
+"customer": "西尾 ひなた",
+"product": "4Kモニター 27型",
+"quantity": 5,
+"unitPrice": 52800,
+"status": "支払済",
+"region": "中国・四国"
+},
+{
+"id": "ORD-0094",
+"date": "2026-08-11",
+"customer": "山口 葵",
+"product": "Webカメラ",
+"quantity": 9,
+"unitPrice": 8980,
+"status": "支払済",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0095",
+"date": "2026-10-11",
+"customer": "森岡 啓子",
+"product": "ドッキングステーション",
+"quantity": 4,
+"unitPrice": 24800,
+"status": "支払済",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0096",
+"date": "2026-09-04",
+"customer": "小出 瞳",
+"product": "ドッキングステーション",
+"quantity": 3,
+"unitPrice": 24800,
+"status": "保留",
+"region": "関東"
+},
+{
+"id": "ORD-0097",
+"date": "2026-10-12",
+"customer": "榊原 良子",
+"product": "ドッキングステーション",
+"quantity": 3,
+"unitPrice": 24800,
+"status": "支払済",
+"region": "中国・四国"
+},
+{
+"id": "ORD-0098",
+"date": "2026-07-16",
+"customer": "須藤 めぐみ",
+"product": "ワイヤレスキーボード",
+"quantity": 8,
+"unitPrice": 12800,
+"status": "支払済",
+"region": "関東"
+},
+{
+"id": "ORD-0099",
+"date": "2026-07-04",
+"customer": "笠井 花",
+"product": "ワイヤレスキーボード",
+"quantity": 5,
+"unitPrice": 12800,
+"status": "支払済",
+"region": "中部"
+},
+{
+"id": "ORD-0100",
+"date": "2026-10-23",
+"customer": "和田 京子",
+"product": "4Kモニター 27型",
+"quantity": 7,
+"unitPrice": 52800,
+"status": "支払済",
+"region": "北海道・東北"
+},
+{
+"id": "ORD-0101",
+"date": "2026-09-25",
+"customer": "牧野 美香",
+"product": "4Kモニター 27型",
+"quantity": 9,
+"unitPrice": 52800,
+"status": "支払済",
+"region": "中部"
+},
+{
+"id": "ORD-0102",
+"date": "2026-10-07",
+"customer": "松山 麻美",
+"product": "4Kモニター 27型",
+"quantity": 1,
+"unitPrice": 52800,
+"status": "支払済",
+"region": "関東"
+},
+{
+"id": "ORD-0103",
+"date": "2026-06-24",
+"customer": "石井 花音",
+"product": "昇降デスク",
+"quantity": 6,
+"unitPrice": 64000,
+"status": "支払済",
+"region": "中部"
+},
+{
+"id": "ORD-0104",
+"date": "2026-05-08",
+"customer": "根岸 稔",
+"product": "ドッキングステーション",
+"quantity": 7,
+"unitPrice": 24800,
+"status": "キャンセル",
+"region": "中国・四国"
+},
+{
+"id": "ORD-0105",
+"date": "2026-09-01",
+"customer": "関根 輝",
+"product": "ワイヤレスキーボード",
+"quantity": 2,
+"unitPrice": 12800,
+"status": "支払済",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0106",
+"date": "2026-05-23",
+"customer": "川田 勲",
+"product": "昇降デスク",
+"quantity": 5,
+"unitPrice": 64000,
+"status": "支払済",
+"region": "中国・四国"
+},
+{
+"id": "ORD-0107",
+"date": "2026-05-29",
+"customer": "松島 誠",
+"product": "ノートPC 14型",
+"quantity": 3,
+"unitPrice": 148000,
+"status": "支払済",
+"region": "北海道・東北"
+},
+{
+"id": "ORD-0108",
+"date": "2026-05-21",
+"customer": "大久保 千代",
+"product": "Webカメラ",
+"quantity": 7,
+"unitPrice": 8980,
+"status": "支払済",
+"region": "中国・四国"
+},
+{
+"id": "ORD-0109",
+"date": "2026-09-11",
+"customer": "久保 達也",
+"product": "ワイヤレスキーボード",
+"quantity": 5,
+"unitPrice": 12800,
+"status": "支払済",
+"region": "関東"
+},
+{
+"id": "ORD-0110",
+"date": "2026-06-25",
+"customer": "石黒 真央",
+"product": "昇降デスク",
+"quantity": 8,
+"unitPrice": 64000,
+"status": "支払済",
+"region": "関西"
+},
+{
+"id": "ORD-0111",
+"date": "2026-09-27",
+"customer": "松原 愛",
+"product": "Webカメラ",
+"quantity": 3,
+"unitPrice": 8980,
+"status": "キャンセル",
+"region": "関西"
+},
+{
+"id": "ORD-0112",
+"date": "2026-07-15",
+"customer": "樋口 紀子",
+"product": "ワイヤレスキーボード",
+"quantity": 3,
+"unitPrice": 12800,
+"status": "保留",
+"region": "関西"
+},
+{
+"id": "ORD-0113",
+"date": "2026-10-16",
+"customer": "野崎 太一",
+"product": "ノートPC 14型",
+"quantity": 4,
+"unitPrice": 148000,
+"status": "支払済",
+"region": "中国・四国"
+},
+{
+"id": "ORD-0114",
+"date": "2026-10-27",
+"customer": "宮本 千尋",
+"product": "オフィスチェア",
+"quantity": 3,
+"unitPrice": 39800,
+"status": "支払済",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0115",
+"date": "2026-09-26",
+"customer": "水谷 きみ",
+"product": "Webカメラ",
+"quantity": 1,
+"unitPrice": 8980,
+"status": "支払済",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0116",
+"date": "2026-07-05",
+"customer": "浅野 大輔",
+"product": "昇降デスク",
+"quantity": 9,
+"unitPrice": 64000,
+"status": "支払済",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0117",
+"date": "2026-08-19",
+"customer": "田辺 翔平",
+"product": "Webカメラ",
+"quantity": 4,
+"unitPrice": 8980,
+"status": "支払済",
+"region": "九州・沖縄"
+},
+{
+"id": "ORD-0118",
+"date": "2026-10-17",
+"customer": "庄司 きよ",
+"product": "ドッキングステーション",
+"quantity": 2,
+"unitPrice": 24800,
+"status": "キャンセル",
+"region": "北海道・東北"
+},
+{
+"id": "ORD-0119",
+"date": "2026-09-21",
+"customer": "川上 彩香",
+"product": "昇降デスク",
+"quantity": 2,
+"unitPrice": 64000,
+"status": "支払済",
+"region": "北海道・東北"
+},
+{
+"id": "ORD-0120",
+"date": "2026-09-27",
+"customer": "広瀬 沙織",
+"product": "オフィスチェア",
+"quantity": 10,
+"unitPrice": 39800,
+"status": "支払済",
+"region": "中国・四国"
+}
+]
