@@ -55,9 +55,10 @@ for n in $(seq 1 "$RUNS"); do
       run_claude "$dir" "$OUT/$id.turn2.jsonl" "$(cat "$SRC/compare/prompts/answers.txt")" "$session"
     fi
     stop_in_dir "$dir"
+    # 先に数える（check_fix は最後に evidence/ などを片付けるので、その前に）
+    counted="$(python3 "$SRC/compare/lib/analyze.py" "$dir" "$OUT/$id.turn1.jsonl" "$OUT/$id.turn2.jsonl")"
     fixed="$(check_fix "$dir")"
-    python3 "$SRC/compare/lib/analyze.py" "$dir" "$OUT/$id.turn1.jsonl" "$OUT/$id.turn2.jsonl" \
-      | jq -c --arg c "$cond" --arg id "$id" --arg f "$fixed" --arg m "$MODEL" '{condition: $c, id: $id, model: $m, fixed: $f} + .' >> "$RESULTS"
+    jq -c --arg c "$cond" --arg id "$id" --arg f "$fixed" --arg m "$MODEL" '{condition: $c, id: $id, model: $m, fixed: $f} + .' <<<"$counted" >> "$RESULTS"
     stop_in_dir "$dir"
     tail -1 "$RESULTS" | jq -r '"\(.condition)  直ったか:\(.fixed)  再現:\(.reproduced_before_fix)  直した後に確かめた:\(.verified_after_fix)  ツール:\(.tool_calls)  $\(.cost_usd)  \(.seconds)秒"'
   done
